@@ -1,0 +1,12 @@
+{
+    "name": "zhenyu/lara_0804_p",
+    "require": {
+        "nesbot/carbon": "^2.39.0"
+    },
+    "authors": [
+        {
+            "name": "wang zhen yu",
+            "email": "asdfg10510588@gmail.com"
+        }
+    ]
+}
